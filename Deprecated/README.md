@@ -1,5 +1,9 @@
-# Apps and Systems
+# Deprecated
 
-MIS: Apps and Systems Logo Stencils
+## MIS: Deprecated Stencils
+This package will provide Deprecated stencils of previous product of features or from previous versions of this package.
 
-This package will provide stencils to visually represent Apps and Enterprise Systems or products logos.
+![MIS: Deprecated Stencils](../media/MIS-Deprecated.png)
+
+# About Me
+Sandro Pereira | DevScope | MVP & MCTS BizTalk Server 2010 | [https://blog.sandro-pereira.com/](https://blog.sandro-pereira.com/) | [@sandro_asp](https://twitter.com/sandro_asp)
