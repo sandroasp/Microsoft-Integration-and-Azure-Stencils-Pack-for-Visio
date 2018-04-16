@@ -2,15 +2,15 @@
 Microsoft Integration, Azure, BAPI, Officie 365 and much more Stencils Pack it’s a Visio package that contains fully resizable Visio shapes (symbols/icons) that will help you to visually represent On-premise, Cloud or Hybrid Integration and Enterprise architectures scenarios (BizTalk Server, API Management, Logic Apps, Service Bus, Event Hub…), solutions diagrams and features or systems that use Microsoft Azure and related cloud and on-premises technologies in Visio 2016/2013:
 * BizTalk Server
 * Microsoft Azure
-* * BizTalk Services
-* * Azure App Service (API Apps, Web Apps, Mobile Apps and Logic Apps)
-* * API Management
-* * Event Hubs
-* * Service Bus
-* * Azure IoT
-* * SQL Server, DocumentDB, CosmosDB, MySQL, ...
-* * Machine Learning, Stream Analytics, Data Factory, Data Pipelines
-* * and so on
+  * BizTalk Services
+  * Azure App Service (API Apps, Web Apps, Mobile Apps and Logic Apps)
+  * API Management
+  * Event Hubs
+  * Service Bus
+  * Azure IoT
+  * SQL Server, DocumentDB, CosmosDB, MySQL, ...
+  * Machine Learning, Stream Analytics, Data Factory, Data Pipelines
+  * and so on
 * Microsoft Flow
 * PowerApps
 * Power BI
@@ -50,11 +50,11 @@ Instructions:
 
 * Download the file and copy to the folder “C:\Users\you_user\Documents\My Shapes” (that is the default folder for the Visio custom shapes)
 * To access the shapes in Visio, select the Shapes Windows: 
-* * “More Shapes -> My Shapes -> Microsoft Integration Stencils v#.#"
-* * “More Shapes -> My Shapes -> MIS Apps and Systems Logo Stencils v#.#"
-* * “More Shapes -> My Shapes -> MIS IoT Devices Stencils v#.#"
-* * “More Shapes -> My Shapes -> MIS Support Stencils v#.#"
-* * ...
+  * “More Shapes -> My Shapes -> Microsoft Integration Stencils v#.#"
+  * “More Shapes -> My Shapes -> MIS Apps and Systems Logo Stencils v#.#"
+  * “More Shapes -> My Shapes -> MIS IoT Devices Stencils v#.#"
+  * “More Shapes -> My Shapes -> MIS Support Stencils v#.#"
+  * ...
 
 ![Visio More Shapes](media/visio-more-shapes.png)
 
