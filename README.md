@@ -1,5 +1,5 @@
-# Microsoft Integration, Azure, BAPI, Officie 365 and much more Stencils Pack for Visio
-Microsoft Integration, Azure, BAPI, Officie 365 and much more Stencils Pack it’s a Visio package that contains fully resizable Visio shapes (symbols/icons) that will help you to visually represent On-premise, Cloud or Hybrid Integration and Enterprise architectures scenarios (BizTalk Server, API Management, Logic Apps, Service Bus, Event Hub…), solutions diagrams and features or systems that use Microsoft Azure and related cloud and on-premises technologies in Visio 2016/2013:
+# Microsoft Integration, Azure, BAPI, Office 365 and much more Stencils Pack for Visio
+Microsoft Integration, Azure, BAPI, Office 365 and much more Stencils Pack it’s a Visio package that contains fully resizable Visio shapes (symbols/icons) that will help you to visually represent On-premise, Cloud or Hybrid Integration and Enterprise architectures scenarios (BizTalk Server, API Management, Logic Apps, Service Bus, Event Hub…), solutions diagrams and features or systems that use Microsoft Azure and related cloud and on-premises technologies in Visio 2016/2013:
 * BizTalk Server
 * Microsoft Azure
   * BizTalk Services
@@ -43,6 +43,8 @@ The Microsoft Integration Stencils Pack is composed of 20 files:
 * MIS Users and Roles Stencils v3.1.0
 
 That you can use and resize without losing quality, in particular, the new shapes.
+
+![Microsoft-Integration-Azure-Stencils-Pack](media/BizTalk-Microsoft-Integration-Azure-Stencils-Pack.png)
 
 There are still many points that could be improved as well as adding new stencil, but it is a good start.
 
