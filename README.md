@@ -9,7 +9,7 @@ Microsoft Integration, Azure, BAPI, Office 365 and much more Stencils Pack it’
   * Service Bus
   * Azure IoT
   * SQL Server, DocumentDB, CosmosDB, MySQL, ...
-  * Machine Learning, Stream Analytics, Data Factory, Data Pipelines
+  * AI, Machine Learning, Stream Analytics, Data Factory, Data Pipelines
   * and so on
 * Microsoft Flow
 * PowerApps
@@ -19,7 +19,7 @@ Microsoft Integration, Azure, BAPI, Office 365 and much more Stencils Pack it’
 * And much more…
 
 
-The Microsoft Integration Stencils Pack is composed of 20 files:
+The Microsoft Integration Stencils Pack is composed of 21 files:
 
 * Microsoft Integration Stencils v3.1.0
 * MIS Additional or Support Stencils v3.1.0
@@ -38,9 +38,10 @@ The Microsoft Integration Stencils Pack is composed of 20 files:
 * MIS Integration Patterns Stencils v3.1.0
 * MIS IoT Devices Stencils v3.1.0
 * MIS Power BI Stencils v3.1.0
-* MIS PowerApps and Flows Stencils v3.1.0
+* MIS PowerApps and Flows Stencils v3.1.1
 * MIS Servers (HEX) Stencils v3.1.0
 * MIS Users and Roles Stencils v3.1.0
+* MIS AI Stencils v3.1.0
 
 That you can use and resize without losing quality, in particular, the new shapes.
 
