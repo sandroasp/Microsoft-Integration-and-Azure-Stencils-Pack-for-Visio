@@ -17,31 +17,35 @@ Microsoft Integration, Azure, BAPI, Office 365 and much more Stencils Pack it’
 * Office365, SharePoint,...
 * DevOps, PowerShell or Docker
 * And much more…
+* ... and now non-related Microsoft technologies like:
+  * SAP Stencils
 
 
-The Microsoft Integration Stencils Pack is composed of 21 files:
+The Microsoft Integration Stencils Pack is composed of 23 files:
 
-* Microsoft Integration Stencils v3.1.0
-* MIS Additional or Support Stencils v3.1.0
-* MIS Apps and Systems Logo Stencils v3.1.0
-* MIS Azure Additional or Support Stencils v3.1.0
-* MIS Azure Others Stencils v3.1.0
-* MIS Azure Stencils v3.1.0
-* MIS Buildings Stencils v3.1.0
-* MIS Databases Stencils v3.1.0
-* MIS Deprecated Stencils v3.1.0
-* MIS Developer Stencils v3.1.0
-* MIS Devices Stencils v3.1.0
-* MIS Files Stencils v3.1.0
-* MIS Generic Stencils v3.1.0
-* MIS Infrastructure Stencils v3.1.0
-* MIS Integration Patterns Stencils v3.1.0
-* MIS IoT Devices Stencils v3.1.0
-* MIS Power BI Stencils v3.1.0
-* MIS PowerApps and Flows Stencils v3.1.1
-* MIS Servers (HEX) Stencils v3.1.0
-* MIS Users and Roles Stencils v3.1.0
-* MIS AI Stencils v3.1.0
+* Microsoft Integration Stencils v4.0.0
+* MIS Additional or Support Stencils v4.0.0
+* MIS AI Stencils v4.0.0
+* MIS Apps and Systems Logo Stencils v4.0.0 
+* MIS Azure Additional or Support Stencils v4.0.0
+* MIS Azure Others Stencils v4.0.0
+* MIS Azure Stencils v4.0.0
+* MIS Buildings Stencils v4.0.0
+* MIS Databases Stencils v4.0.0
+* MIS Deprecated Stencils v4.0.0
+* MIS Developer Stencils v4.0.0
+* MIS Devices Stencils v4.0.0
+* MIS Files Stencilsv4.0.0
+* MIS Generic Stencils v4.0.0
+* MIS Infrastructure Stencils v4.0.0
+* MIS Integration Patterns Stencils v4.0.0
+* MIS IoT Devices Stencils v4.0.0
+* MIS Office365 v4.0.0
+* MIS Power BI Stencils v4.0.0
+* MIS PowerApps and Flows Stencils v4.0.0
+* MIS SAP Stencils v4.0.0
+* MIS Servers (HEX) Stencils v4.0.0
+* MIS Users and Roles Stencils v4.0.0
 
 That you can use and resize without losing quality, in particular, the new shapes.
 
