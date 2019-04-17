@@ -40,7 +40,7 @@ The Microsoft Integration Stencils Pack is composed of 23 files:
 * MIS Infrastructure Stencils v4.0.0
 * MIS Integration Patterns Stencils v4.0.0
 * MIS IoT Devices Stencils v4.0.0
-* MIS Office365 v4.0.0
+* MIS Office365 v4.1.0
 * MIS Power BI Stencils v4.0.0
 * MIS PowerApps and Flows Stencils v4.0.0
 * MIS SAP Stencils v4.0.0
