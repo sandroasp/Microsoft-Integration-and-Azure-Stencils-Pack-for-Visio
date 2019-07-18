@@ -2,20 +2,21 @@
 Microsoft Integration, Azure, BAPI, Office 365 and much more Stencils Pack it’s a Visio package that contains fully resizable Visio shapes (symbols/icons) that will help you to visually represent On-premise, Cloud or Hybrid Integration and Enterprise architectures scenarios (BizTalk Server, API Management, Logic Apps, Service Bus, Event Hub…), solutions diagrams and features or systems that use Microsoft Azure and related cloud and on-premises technologies in Visio 2016/2013:
 * BizTalk Server
 * Microsoft Azure
-  * BizTalk Services
-  * Azure App Service (API Apps, Web Apps, Mobile Apps and Logic Apps)
-  * API Management
-  * Event Hubs
-  * Service Bus
-  * Azure IoT
+  * Integration
+    * Integration Service Environments (ISE)
+    * Logic Apps and Azure App Service in general (API Apps, Web Apps and Mobile Apps)
+    * Azure API Management
+    * Messaging: Event Hubs, Event Grid, Service Bus, …
+  * Azure IoT and Docker
+  *	AI, Machine Learning, Stream Analytics, Data Factory, Data Pipelines
   * SQL Server, DocumentDB, CosmosDB, MySQL, ...
-  * AI, Machine Learning, Stream Analytics, Data Factory, Data Pipelines
   * and so on
-* Microsoft Flow
-* PowerApps
-* Power BI
+* Microsoft Power Platform
+  * Microsoft Flow
+  * PowerApps
+  * Power BI
 * Office365, SharePoint,...
-* DevOps, PowerShell or Docker
+* DevOps and PowerShell
 * And much more…
 * ... and now non-related Microsoft technologies like:
   * SAP Stencils
@@ -23,13 +24,13 @@ Microsoft Integration, Azure, BAPI, Office 365 and much more Stencils Pack it’
 
 The Microsoft Integration Stencils Pack is composed of 23 files:
 
-* Microsoft Integration Stencils v4.0.1
+* Microsoft Integration Stencils v4.0.2
 * MIS Additional or Support Stencils v4.0.0
 * MIS AI Stencils v4.0.0
 * MIS Apps and Systems Logo Stencils v4.0.0 
 * MIS Azure Additional or Support Stencils v4.0.0
 * MIS Azure Others Stencils v4.0.0
-* MIS Azure Stencils v4.0.1
+* MIS Azure Stencils v4.0.2
 * MIS Buildings Stencils v4.0.0
 * MIS Databases Stencils v4.0.0
 * MIS Deprecated Stencils v4.0.0
