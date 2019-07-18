@@ -23,13 +23,13 @@ Microsoft Integration, Azure, BAPI, Office 365 and much more Stencils Pack it’
 
 The Microsoft Integration Stencils Pack is composed of 23 files:
 
-* Microsoft Integration Stencils v4.0.0
+* Microsoft Integration Stencils v4.0.1
 * MIS Additional or Support Stencils v4.0.0
 * MIS AI Stencils v4.0.0
 * MIS Apps and Systems Logo Stencils v4.0.0 
 * MIS Azure Additional or Support Stencils v4.0.0
 * MIS Azure Others Stencils v4.0.0
-* MIS Azure Stencils v4.0.0
+* MIS Azure Stencils v4.0.1
 * MIS Buildings Stencils v4.0.0
 * MIS Databases Stencils v4.0.0
 * MIS Deprecated Stencils v4.0.0
