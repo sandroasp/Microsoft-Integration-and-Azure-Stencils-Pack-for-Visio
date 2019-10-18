@@ -1,0 +1,6 @@
+<svg viewBox="0 0 16 16" class="msportalfx-svg-palette-inherit" role="presentation" focusable="false" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="FxSymbol0-113" data-type="115"><g><title></title><path d="M14 4v10H2V4H0v12h16V4h-2z"></path><path d="M7 3.4L4 6.3V3.9L8 0l4 3.9v2.4L9 3.4v9.4H7z"></path></g><defs>
+<linearGradient id="a" x1="9" y1="17.86" x2="9" y2="4.06" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0078d4"></stop><stop offset=".16" stop-color="#1380da"></stop><stop offset=".53" stop-color="#3c91e5"></stop><stop offset=".82" stop-color="#559cec"></stop><stop offset="1" stop-color="#5ea0ef"></stop></linearGradient>
+<linearGradient id="b" x1="6.4" y1="1.32" x2="7.21" y2="11.39"><stop offset=".22" stop-color="#32d4f5"></stop><stop offset=".47" stop-color="#31d1f3"></stop><stop offset=".63" stop-color="#2ec9eb"></stop><stop offset=".77" stop-color="#29bade"></stop><stop offset=".89" stop-color="#22a5cb"></stop><stop offset="1" stop-color="#198ab3"></stop><stop offset="1" stop-color="#198ab3"></stop></linearGradient>
+<linearGradient id="c" x1="13.76" y1="18.05" x2="13.76" y2="10.25" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#76bc2d"></stop><stop offset=".6" stop-color="#81ce31"></stop><stop offset=".82" stop-color="#86d633"></stop></linearGradient>
+</defs>
+</svg>
