@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="505" height="120" viewBox="0 0 505 120">
+  <rect x="335" y="65" width="62" height="23" rx="1.44" ry="1.44" fill="#fcca17"/>
+  <rect x="406" y="65" width="62" height="23" rx="1.44" ry="1.44" fill="#dedede"/>
+  <rect x="282" y="33" width="72" height="23" rx="1.44" ry="1.44" fill="#dedede"/>
+  <path d="M291.325,44h49.346" fill="none" stroke="#969696" stroke-linecap="square" stroke-width="3.6"/>
+  <rect x="282" y="0.867" width="90.35" height="23.267" rx="1.44" ry="1.44" fill="#dedede"/>
+  <path d="M291.52,12.049h71.138" fill="none" stroke="#969696" stroke-linecap="square" stroke-width="3.6"/>
+  <path d="M415.333,77h39.339" fill="none" stroke="#969696" stroke-linecap="square" stroke-width="3.6"/>
+  <path d="M347.33,77h36.345" fill="none" stroke="#fdad0e" stroke-linecap="square" stroke-width="3.6"/>
+  <rect x="364" y="33" width="52" height="23" rx="1.44" ry="1.44" fill="#dedede"/>
+  <path d="M373.33,44h32.34" fill="none" stroke="#969696" stroke-linecap="square" stroke-width="3.6"/>
+  <rect x="282" y="97" width="90" height="23" rx="1.44" ry="1.44" fill="#00abec"/>
+  <rect x="381" y="97" width="52" height="23" rx="1.44" ry="1.44" fill="#dedede"/>
+  <path d="M291.329,108h71.388" fill="none" stroke="#0072c6" stroke-linecap="square" stroke-width="3.6"/>
+  <path d="M391.33,108h32.34" fill="none" stroke="#969696" stroke-linecap="square" stroke-width="3.6"/>
+  <rect x="381" y="1" width="52" height="23" rx="1.44" ry="1.44" fill="#dedede"/>
+  <path d="M391.33,12h32.34" fill="none" stroke="#969696" stroke-linecap="square" stroke-width="3.6"/>
+  <rect x="424" y="33" width="81" height="23" rx="1.44" ry="1.44" fill="#dedede"/>
+  <path d="M435.333,44h57.337" fill="none" stroke="#969696" stroke-linecap="square" stroke-width="3.6"/>
+  <path d="M28.106,16.04h136.32M28.114,36.441h14.95m65.861,0h37.15" fill="none" stroke="#dedede" stroke-linecap="square" stroke-width="8.16"/>
+  <path d="M20.949,14.8a4.5,4.5,0,0,0-4.24-3.8,4.257,4.257,0,0,1,3.322-3.156.18.18,0,0,0,.124-.2L19.907,6.1s-.025-.124-.223-.1c-5.306.6-8.9,4.648-8.232,9.568a4.973,4.973,0,0,0,5.728,4.374A4.53,4.53,0,0,0,20.949,14.8ZM5.326,11A4.257,4.257,0,0,1,8.649,7.842a.18.18,0,0,0,.124-.2L8.55,6.1s-.025-.124-.223-.1C3.02,6.575-.55,10.626.07,15.547a5.02,5.02,0,0,0,5.752,4.4A4.494,4.494,0,0,0,9.566,14.8,4.429,4.429,0,0,0,5.326,11Z" fill="#dedede"/>
+  <path d="M201.051,29.2a4.5,4.5,0,0,0,4.24,3.8,4.257,4.257,0,0,1-3.322,3.156.18.18,0,0,0-.124.2l.248,1.541s.025.124.223.1c5.306-.6,8.9-4.648,8.232-9.568a4.973,4.973,0,0,0-5.728-4.374A4.53,4.53,0,0,0,201.051,29.2ZM216.674,33a4.257,4.257,0,0,1-3.323,3.156.18.18,0,0,0-.124.2l.223,1.541s.025.124.223.1c5.306-.572,8.877-4.623,8.257-9.544a5.02,5.02,0,0,0-5.752-4.4,4.494,4.494,0,0,0-3.744,5.145A4.429,4.429,0,0,0,216.674,33Z" fill="#dedede"/>
+  <polyline points="76 46 76 108 279 108" fill="none" stroke="#00abec" stroke-linecap="square" stroke-width="3" stroke-dasharray="5 8"/>
+  <polyline points="174 45 174 76 340 76" fill="none" stroke="#fcca17" stroke-linecap="square" stroke-width="3" stroke-dasharray="5 8"/>
+  
+  <circle id="luis-feat_ill-01-intelligence-a" data-name="luis-feat ill-01-intelligence-a" cx="394.5" cy="67.5" r="8.5" fill="#a5ce00"/>
+  <circle cx="394.5" cy="67.5" r="7.5" fill="none" stroke="#fff" stroke-width="2"/>
+  <polygon points="399.421 65.314 398.453 64.368 393.055 69.646 390.547 67.181 389.579 68.127 393.055 71.526 399.421 65.314" fill="#fff"/>
+
+  <circle id="luis-feat_ill-01-intelligence-b" data-name="luis-feat ill-01-intelligence-b" cx="370.5" cy="97.5" r="8.5" fill="#a5ce00"/>
+  <circle cx="370.5" cy="97.5" r="7.5" fill="none" stroke="#fff" stroke-width="2"/>
+  <polygon points="376 94.926 375.017 94 369.532 99.162 366.983 96.75 366 97.676 369.532 101 376 94.926" fill="#fff"/>
+
+  <path d="M63.389,35.926h24.1" fill="none" stroke="#00abec" stroke-linecap="square" stroke-width="8.16"/>
+  <polygon points="57.566 47.595 51.231 47.595 51.231 23.787 57.566 23.787 57.566 26.506 54.743 26.506 54.743 44.876 57.566 44.876 57.566 47.595" fill="#00abec"/>
+  <polygon points="99.615 47.595 93.253 47.595 93.253 44.876 96.103 44.876 96.103 26.506 93.253 26.506 93.253 23.787 99.615 23.787 99.615 47.595" fill="#00abec"/>
+  <path d="M168,36.04h14.657" fill="none" stroke="#fcca17" stroke-linecap="square" stroke-width="8.16"/>
+  <polygon points="162 48 156 48 156 24 162 24 162 26.741 159.326 26.741 159.326 45.259 162 45.259 162 48" fill="#fcca17"/>
+  <polygon points="195 48 189 48 189 45.259 191.688 45.259 191.688 26.741 189 26.741 189 24 195 24 195 48" fill="#fcca17"/>
+
+</svg>
