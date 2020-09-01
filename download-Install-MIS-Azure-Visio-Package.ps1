@@ -27,7 +27,7 @@ function DownloadGitHubRepository
     New-Item $ZipFile -ItemType File -Force
 
     #$RepositoryZipUrl = "https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/archive/master.zip"
-    $RepositoryZipUrl = "https://api.github.com/repos/$Author/$Name/archive/$Branch"  
+    $RepositoryZipUrl = "https://api.github.com/repos/$Author/$Name/zipball/$Branch"  
     # download the zip 
     Write-Host 'Starting downloading the GitHub Repository'
     Invoke-RestMethod -Uri $RepositoryZipUrl -OutFile $ZipFile
