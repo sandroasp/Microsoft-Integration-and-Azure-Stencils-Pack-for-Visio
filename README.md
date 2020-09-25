@@ -56,7 +56,7 @@ There are still many points that could be improved as well as adding new stencil
 
 Instructions:
 
-* Download the file and copy to the folder “C:\Users\you_user\Documents\My Shapes” (that is the default folder for the Visio custom shapes)
+* Download the file and copy to the folder “%USERPROFILE%\Documents\My Shapes” (“C:\Users\you_user\Documents\My Shapes”; that is the default folder for the Visio custom shapes)
 * To access the shapes in Visio, select the Shapes Windows: 
   * “More Shapes -> My Shapes -> Microsoft Integration Stencils v#.#"
   * “More Shapes -> My Shapes -> MIS Apps and Systems Logo Stencils v#.#"
