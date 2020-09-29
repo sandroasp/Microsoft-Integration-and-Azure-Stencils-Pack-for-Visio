@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Livello_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 430 400"
+	 style="enable-background:new 0 0 430 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#036C70;}
+	.st1{fill:#37C6D0;}
+	.st2{fill:#1A9BA1;}
+	.st3{opacity:0.1;enable-background:new    ;}
+	.st4{opacity:0.2;enable-background:new    ;}
+	.st5{fill:url(#SVGID_1_);}
+	.st6{fill:#FFFFFF;}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="400" width="430" x="-191.5" y="-176"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<title>Forms_48x</title>
+<g>
+	<path class="st0" d="M430,200v181.7c0,10.1-8.2,18.3-18.3,18.3c0,0,0,0,0,0H118.3c-10.1,0-18.3-8.2-18.3-18.3l0,0V200l170-20
+		L430,200z"/>
+	<path class="st1" d="M118.3,0h293.4C421.8,0,430,8.2,430,18.3c0,0,0,0,0,0V200l0,0H100l0,0V18.3C100,8.2,108.2,0,118.3,0L118.3,0z"
+		/>
+	<rect x="280" y="250" class="st2" width="100" height="100"/>
+	<circle class="st2" cx="330" cy="100" r="60"/>
+	<circle class="st0" cx="330" cy="100" r="30"/>
+	<path class="st3" d="M221.7,80H100v250h121.7c10.1,0,18.3-8.2,18.3-18.3V98.3C240,88.2,231.8,80,221.7,80z"/>
+	<path class="st4" d="M211.7,90H100v250h111.7c10.1,0,18.3-8.2,18.3-18.3V108.3C230,98.2,221.8,90,211.7,90z"/>
+	<path class="st4" d="M211.7,90H100v230h111.7c10.1,0,18.3-8.2,18.3-18.3V108.3C230,98.2,221.8,90,211.7,90z"/>
+	<path class="st4" d="M201.7,90H100v230h101.7c10.1,0,18.3-8.2,18.3-18.3V108.3C220,98.2,211.8,90,201.7,90z"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="38.2184" y1="326.3227" x2="181.7816" y2="77.6773" gradientTransform="matrix(1 0 0 -1 0 402)">
+		<stop  offset="0" style="stop-color:#058F92"/>
+		<stop  offset="0.5" style="stop-color:#038489"/>
+		<stop  offset="1" style="stop-color:#026D71"/>
+	</linearGradient>
+	<path class="st5" d="M18.3,90h183.3c10.1,0,18.3,8.2,18.3,18.3v183.3c0,10.1-8.2,18.3-18.3,18.3H18.3C8.2,310,0,301.8,0,291.7
+		V108.3C0,98.2,8.2,90,18.3,90z"/>
+	<path class="st6" d="M147.1,159.8H95.5v32.5h48.1v19.3H95.5v48H72.2V140.4h75L147.1,159.8z"/>
+</g>
+</svg>
