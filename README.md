@@ -58,6 +58,12 @@ That you can use and resize without losing quality, in particular, the new shape
 
 There are still many points that could be improved as well as adding new stencil, but it is a good start.
 
+# Walkthrough video
+
+A video walkthrough on the stencils integration with Visio Deskto
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UjPZAC1AbKc/0.jpg)](https://www.youtube.com/watch?v=UjPZAC1AbKc)
+
 # Manual Installation process:
 
 * Download the file and copy to the folder “%USERPROFILE%\Documents\My Shapes” (“C:\Users\you_user\Documents\My Shapes”; that is the default folder for the Visio custom shapes)
@@ -72,7 +78,4 @@ There are still many points that could be improved as well as adding new stencil
 
 # About Me
 **Sandro Pereira** | [DevScope](http://www.devscope.net/) | MVP & MCTS BizTalk Server 2010 | [https://blog.sandro-pereira.com/](https://blog.sandro-pereira.com/) | [@sandro_asp](https://twitter.com/sandro_asp)
-
-
-A video walkthrough on the stencils integration with Visio Desktop https://www.youtube.com/watch?v=UjPZAC1AbKc
 
