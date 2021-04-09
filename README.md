@@ -22,31 +22,35 @@ Microsoft Integration, Azure, BAPI, Office 365 and much more Stencils Pack it’
   * SAP Stencils
 
 
-The Microsoft Integration Stencils Pack is composed of 23 files:
+The Microsoft Integration Stencils Pack is composed of 27 files:
 
 * Microsoft Integration Stencils
 * MIS Additional or Support Stencils
-* MIS AI Stencils
-* MIS Apps and Systems Logo Stencils
-* MIS Azure Additional or Support Stencils
-* MIS Azure Others Stencils
 * MIS Azure Stencils
+* MIS Azure Additional or Support Stencils
+* MIS Azure Black and Gray
+* MIS Power Platform Stencils
+* MIS Security and Governance
+* MIS AI and Machine Learning Stencils
+* MIS Apps and Systems Logo Stencils
+* MIS Databases and Analytics Stencils
+* MIS IoT Stencils
+* MIS Office, Office 365 and Dynamics 365
+* MIS SAP Stencils
 * MIS Buildings Stencils
-* MIS Databases Stencils
-* MIS Deprecated Stencils
 * MIS Developer Stencils
 * MIS Devices Stencils
-* MIS Files Stencils
+* MIS Files and Message Types Stencils
 * MIS Generic Stencils
-* MIS Infrastructure Stencils
-* MIS Integration Patterns Stencils
-* MIS IoT Devices Stencils
-* MIS Office365
-* MIS Power BI Stencils
-* MIS PowerApps and Flows Stencils
-* MIS SAP Stencils
-* MIS Servers (HEX) Stencils
+* MIS Infrastructure and Networking Stencils
+* MIS Servers (Hexagonal) Stencils
 * MIS Users and Roles Stencils
+* MIS Integration Fun
+* MIS Integration Patterns Stencils
+* MIS Black and Cyan
+* MIS Azure Old Versions
+* MIS Deprecated Stencils
+* Organisational Stencils
 
 That you can use and resize without losing quality, in particular, the new shapes.
 
