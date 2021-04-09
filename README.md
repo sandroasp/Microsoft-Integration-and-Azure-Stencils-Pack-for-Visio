@@ -24,29 +24,29 @@ Microsoft Integration, Azure, BAPI, Office 365 and much more Stencils Pack it’
 
 The Microsoft Integration Stencils Pack is composed of 23 files:
 
-* Microsoft Integration Stencils v4.0.2
-* MIS Additional or Support Stencils v4.0.0
-* MIS AI Stencils v4.0.0
-* MIS Apps and Systems Logo Stencils v4.0.0 
-* MIS Azure Additional or Support Stencils v4.0.0
-* MIS Azure Others Stencils v4.0.0
-* MIS Azure Stencils v4.0.2
-* MIS Buildings Stencils v4.0.0
-* MIS Databases Stencils v4.0.0
-* MIS Deprecated Stencils v4.0.0
-* MIS Developer Stencils v4.0.0
-* MIS Devices Stencils v4.0.0
-* MIS Files Stencilsv4.0.0
-* MIS Generic Stencils v4.0.0
-* MIS Infrastructure Stencils v4.0.0
-* MIS Integration Patterns Stencils v4.0.0
-* MIS IoT Devices Stencils v4.0.0
-* MIS Office365 v4.1.0
-* MIS Power BI Stencils v4.0.0
-* MIS PowerApps and Flows Stencils v4.0.0
-* MIS SAP Stencils v4.0.0
-* MIS Servers (HEX) Stencils v4.0.0
-* MIS Users and Roles Stencils v4.0.0
+* Microsoft Integration Stencils
+* MIS Additional or Support Stencils
+* MIS AI Stencils
+* MIS Apps and Systems Logo Stencils
+* MIS Azure Additional or Support Stencils
+* MIS Azure Others Stencils
+* MIS Azure Stencils
+* MIS Buildings Stencils
+* MIS Databases Stencils
+* MIS Deprecated Stencils
+* MIS Developer Stencils
+* MIS Devices Stencils
+* MIS Files Stencils
+* MIS Generic Stencils
+* MIS Infrastructure Stencils
+* MIS Integration Patterns Stencils
+* MIS IoT Devices Stencils
+* MIS Office365
+* MIS Power BI Stencils
+* MIS PowerApps and Flows Stencils
+* MIS SAP Stencils
+* MIS Servers (HEX) Stencils
+* MIS Users and Roles Stencils
 
 That you can use and resize without losing quality, in particular, the new shapes.
 
