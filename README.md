@@ -58,14 +58,14 @@ That you can use and resize without losing quality, in particular, the new shape
 
 There are still many points that could be improved as well as adding new stencil, but it is a good start.
 
-Instructions:
+# Manual Installation process:
 
 * Download the file and copy to the folder “%USERPROFILE%\Documents\My Shapes” (“C:\Users\you_user\Documents\My Shapes”; that is the default folder for the Visio custom shapes)
+   * Delete all the previous files if exist.
 * To access the shapes in Visio, select the Shapes Windows: 
-  * “More Shapes -> My Shapes -> Microsoft Integration Stencils v#.#"
-  * “More Shapes -> My Shapes -> MIS Apps and Systems Logo Stencils v#.#"
-  * “More Shapes -> My Shapes -> MIS IoT Devices Stencils v#.#"
-  * “More Shapes -> My Shapes -> MIS Support Stencils v#.#"
+  * “More Shapes -> My Shapes -> Microsoft Integration Stencils"
+  * “More Shapes -> My Shapes -> MIS Azure Stencils"
+  * “More Shapes -> My Shapes -> MIS Power Platform Stencils"
   * ...
 
 ![Visio More Shapes](media/visio-more-shapes.png)
