@@ -62,7 +62,7 @@ There are still many points that could be improved as well as adding new stencil
 
 A video walkthrough on the stencils integration with Visio Deskto
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UjPZAC1AbKc/0.jpg)](https://www.youtube.com/watch?v=UjPZAC1AbKc){:target="_blank"}
+[![Alt text](https://img.youtube.com/vi/UjPZAC1AbKc/0.jpg)](https://www.youtube.com/watch?v=UjPZAC1AbKc)
 
 # Manual Installation process:
 
