@@ -60,7 +60,7 @@ There are still many points that could be improved as well as adding new stencil
 
 # Walkthrough video
 
-A video walkthrough on the stencils integration with Visio Deskto
+A video walkthrough on the stencils integration with Visio Desktop
 
 [![Alt text](https://img.youtube.com/vi/UjPZAC1AbKc/0.jpg)](https://www.youtube.com/watch?v=UjPZAC1AbKc)
 
