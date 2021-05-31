@@ -22,31 +22,35 @@ Microsoft Integration, Azure, BAPI, Office 365 and much more Stencils Pack it’
   * SAP Stencils
 
 
-The Microsoft Integration Stencils Pack is composed of 23 files:
+The Microsoft Integration Stencils Pack is composed of 27 files:
 
-* Microsoft Integration Stencils v4.0.2
-* MIS Additional or Support Stencils v4.0.0
-* MIS AI Stencils v4.0.0
-* MIS Apps and Systems Logo Stencils v4.0.0 
-* MIS Azure Additional or Support Stencils v4.0.0
-* MIS Azure Others Stencils v4.0.0
-* MIS Azure Stencils v4.0.2
-* MIS Buildings Stencils v4.0.0
-* MIS Databases Stencils v4.0.0
-* MIS Deprecated Stencils v4.0.0
-* MIS Developer Stencils v4.0.0
-* MIS Devices Stencils v4.0.0
-* MIS Files Stencilsv4.0.0
-* MIS Generic Stencils v4.0.0
-* MIS Infrastructure Stencils v4.0.0
-* MIS Integration Patterns Stencils v4.0.0
-* MIS IoT Devices Stencils v4.0.0
-* MIS Office365 v4.1.0
-* MIS Power BI Stencils v4.0.0
-* MIS PowerApps and Flows Stencils v4.0.0
-* MIS SAP Stencils v4.0.0
-* MIS Servers (HEX) Stencils v4.0.0
-* MIS Users and Roles Stencils v4.0.0
+* Microsoft Integration Stencils
+* MIS Additional or Support Stencils
+* MIS Azure Stencils
+* MIS Azure Additional or Support Stencils
+* MIS Azure Black and Gray
+* MIS Power Platform Stencils
+* MIS Security and Governance
+* MIS AI and Machine Learning Stencils
+* MIS Apps and Systems Logo Stencils
+* MIS Databases and Analytics Stencils
+* MIS IoT Stencils
+* MIS Office, Office 365 and Dynamics 365
+* MIS SAP Stencils
+* MIS Buildings Stencils
+* MIS Developer Stencils
+* MIS Devices Stencils
+* MIS Files and Message Types Stencils
+* MIS Generic Stencils
+* MIS Infrastructure and Networking Stencils
+* MIS Servers (Hexagonal) Stencils
+* MIS Users and Roles Stencils
+* MIS Integration Fun
+* MIS Integration Patterns Stencils
+* MIS Black and Cyan
+* MIS Azure Old Versions
+* MIS Deprecated Stencils
+* Organisational Stencils
 
 That you can use and resize without losing quality, in particular, the new shapes.
 
@@ -54,17 +58,24 @@ That you can use and resize without losing quality, in particular, the new shape
 
 There are still many points that could be improved as well as adding new stencil, but it is a good start.
 
-Instructions:
+# Walkthrough video
+
+A video walkthrough on the stencils integration with Visio Desktop
+
+[![Alt text](https://img.youtube.com/vi/UjPZAC1AbKc/0.jpg)](https://www.youtube.com/watch?v=UjPZAC1AbKc)
+
+# Manual Installation process:
 
 * Download the file and copy to the folder “%USERPROFILE%\Documents\My Shapes” (“C:\Users\you_user\Documents\My Shapes”; that is the default folder for the Visio custom shapes)
+   * Delete all the previous files if exist.
 * To access the shapes in Visio, select the Shapes Windows: 
-  * “More Shapes -> My Shapes -> Microsoft Integration Stencils v#.#"
-  * “More Shapes -> My Shapes -> MIS Apps and Systems Logo Stencils v#.#"
-  * “More Shapes -> My Shapes -> MIS IoT Devices Stencils v#.#"
-  * “More Shapes -> My Shapes -> MIS Support Stencils v#.#"
+  * “More Shapes -> My Shapes -> Microsoft Integration Stencils"
+  * “More Shapes -> My Shapes -> MIS Azure Stencils"
+  * “More Shapes -> My Shapes -> MIS Power Platform Stencils"
   * ...
 
 ![Visio More Shapes](media/visio-more-shapes.png)
 
 # About Me
 **Sandro Pereira** | [DevScope](http://www.devscope.net/) | MVP & MCTS BizTalk Server 2010 | [https://blog.sandro-pereira.com/](https://blog.sandro-pereira.com/) | [@sandro_asp](https://twitter.com/sandro_asp)
+
