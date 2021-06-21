@@ -1,7 +1,7 @@
 # Databases
 
-## MIS: Databases
-This package contains stencils that will represent Databases and related technologies (on-premises and cloud).
+## MIS: Databases and Analytics
+This package contains stencils that will represent Databases, Analytics and related technologies (on-premises and cloud)
 
 ![MIS: Databases](../media/MIS-Databases.png)
 
