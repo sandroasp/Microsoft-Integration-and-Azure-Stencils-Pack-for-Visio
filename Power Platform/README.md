@@ -1,7 +1,7 @@
-# PowerApps and Flow
+# Power Platform
 
-## MIS: PowerApps & Flows
-This package will provide stencils to visually represent PowerApps and/or Microsoft Flow devices, architectures or solutions diagrams. It will provide stencils to visually represent features, systems, processes and architectures that use these technologies.
+## MIS: Power Platform
+This package will provide stencils to visually represent Power Platform: Power Bi, Power Apps, Power Virtual Agents and/or Power Automate devices, architectures or solutions diagrams. It will provide stencils to visually represent features, systems, processes and architectures that use these technologies.
 
 ![Flow](../media/Microsoft-Flow.png)
 
