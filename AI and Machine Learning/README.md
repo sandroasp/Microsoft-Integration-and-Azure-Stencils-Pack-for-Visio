@@ -1,6 +1,6 @@
 # AI and Machine Learning
 
-## Microsoft AI and Machine Learning (MIS AI v3.1.0.vssx)
+## Microsoft AI and Machine Learning
 
 This package contains stencils that will represent AI + Machine Learning and related technologies.
 

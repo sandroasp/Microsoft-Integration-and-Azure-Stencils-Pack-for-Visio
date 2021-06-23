@@ -1,7 +1,7 @@
 # Deprecated
 
 ## MIS: Deprecated Stencils
-This package will provide Deprecated stencils of previous product of features or from previous versions of this package.
+This Visio package will provide Deprecated stencils of previous product of features or from previous versions of this package.
 
 ![MIS: Deprecated Stencils](../media/MIS-Deprecated.png)
 

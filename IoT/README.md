@@ -1,6 +1,6 @@
 # IoT
 
-## MIS: IoT Devices
+## MIS: IoT
 This package will provide stencils to visually represent IoT (Internet of Things) devices, architectures or solutions diagrams.
 
 ![MIS: IoT Devices](../media/MIS-IoT-Devices.png)
