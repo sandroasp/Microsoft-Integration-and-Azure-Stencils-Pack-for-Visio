@@ -1,6 +1,6 @@
 # Others
 
-## MIS: SAP
+## MIS: SAP Stencils
 This package contains stencils that will represent some SAP service Stencils.
 
 ![MIS: SAP](../media/MIS-SAP.png)

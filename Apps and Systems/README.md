@@ -1,7 +1,7 @@
 # Apps and Systems
 
 ## MIS: Apps and Systems Logo Stencils
-This package will provide stencils to visually represent Apps and Enterprise Systems or products logos.
+This Visio package will provide stencils to visually represent Apps and Enterprise Systems or products logos.
 
 ![MIS: Apps and System Logos Stencils](../media/MIS-Apps-and-Systems-Logo-Stencils.png)
 
