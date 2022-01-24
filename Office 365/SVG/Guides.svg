@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="96"
+   height="96"
+   viewBox="0 0 96 96"
+   fill="none"
+   version="1.1"
+   id="svg69"
+   sodipodi:docname="Guides_scalable.svg">
+  <metadata
+     id="metadata73">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview71" />
+  <g
+     clip-path="url(#clip0)"
+     id="g25">
+    <g
+       clip-path="url(#clip1)"
+       id="g23">
+      <mask
+         id="mask0"
+         mask-type="alpha"
+         maskUnits="userSpaceOnUse"
+         x="0"
+         y="0"
+         width="96"
+         height="96">
+        <path
+           d="M48.3137 12.7758L42.0431 1.98962C41.327 0.757867 40.0098 0 38.585 0H18.7453C17.3156 0 15.9946 0.763073 15.2803 2.00155L5.36608 19.1912C4.65027 20.4323 4.65291 21.9614 5.37299 23.2L11.7054 34.0925L1.15262 52.3894C0.439278 53.6262 0.439278 55.1495 1.15262 56.3863L22.8456 93.9983C23.5599 95.2368 24.8809 95.9999 26.3106 95.9999H69.6894C71.1191 95.9999 72.4401 95.2368 73.1544 93.9983L94.8474 56.3863C95.5607 55.1495 95.5607 53.6262 94.8474 52.3894L73.1544 14.7773C72.4401 13.5389 71.1191 12.7758 69.6894 12.7758H48.3137Z"
+           fill="black"
+           id="path2" />
+      </mask>
+      <g
+         mask="url(#mask0)"
+         id="g21">
+        <path
+           d="M72 12.7758L96 54.3878L72 95.9999H24L0 54.3878L24 12.7758L72 12.7758Z"
+           fill="url(#paint0_linear)"
+           id="path5" />
+        <path
+           d="M60.2264 33.1903L72.1052 53.4589L59.863 74.6471H35.3909L23.5488 54.3879L35.7747 33.1903L60.2264 33.1903Z"
+           fill="url(#paint1_linear)"
+           id="path7" />
+        <g
+           filter="url(#filter0_f)"
+           id="g11">
+          <path
+             d="M39.7137 -1.69L63.3587 38.9821L51.1329 60.1796H26.6812L3.03613 19.5076L15.262 -1.69L39.7137 -1.69Z"
+             fill="black"
+             fill-opacity="0.24"
+             id="path9" />
+        </g>
+        <g
+           filter="url(#filter1_f)"
+           id="g15">
+          <path
+             d="M39.7303 4.56127e-07L63.3753 40.6721L51.1495 61.8696H26.6978L3.05273 21.1976L15.2786 0L39.7303 4.56127e-07Z"
+             fill="black"
+             fill-opacity="0.32"
+             id="path13" />
+        </g>
+        <path
+           d="M39.7166 -2.06995L63.3616 38.6021L51.1358 59.7996H26.6841L3.03906 19.1277L15.2649 -2.06995L39.7166 -2.06995Z"
+           fill="url(#paint2_linear)"
+           id="path17" />
+        <path
+           fill-rule="evenodd"
+           clip-rule="evenodd"
+           d="M39.7173 -2.06995L63.3623 38.6021L63.3599 38.6062L51.1365 59.7996H26.686L38.7768 38.8362L15.2656 -2.06995H39.7173Z"
+           fill="url(#paint3_linear)"
+           id="path19" />
+      </g>
+    </g>
+  </g>
+  <defs
+     id="defs67">
+    <filter
+       id="filter0_f"
+       x="2.27613"
+       y="-2.45"
+       width="61.8425"
+       height="63.3896"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood27" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="BackgroundImageFix"
+         result="shape"
+         id="feBlend29" />
+      <feGaussianBlur
+         stdDeviation="0.38"
+         result="effect1_foregroundBlur"
+         id="feGaussianBlur31" />
+    </filter>
+    <filter
+       id="filter1_f"
+       x="-4.94727"
+       y="-8"
+       width="76.3225"
+       height="77.8696"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood34" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="BackgroundImageFix"
+         result="shape"
+         id="feBlend36" />
+      <feGaussianBlur
+         stdDeviation="4"
+         result="effect1_foregroundBlur"
+         id="feGaussianBlur38" />
+    </filter>
+    <linearGradient
+       id="paint0_linear"
+       x1="25.5"
+       y1="12.5"
+       x2="69"
+       y2="95.5"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#40C4F5"
+         id="stop41" />
+      <stop
+         offset="1"
+         stop-color="#0095E6"
+         id="stop43" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear"
+       x1="38.776"
+       y1="41.2647"
+       x2="55.6658"
+       y2="73.4075"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#0078D4"
+         id="stop46" />
+      <stop
+         offset="1"
+         stop-color="#2064AE"
+         id="stop48" />
+    </linearGradient>
+    <linearGradient
+       id="paint2_linear"
+       x1="13.4566"
+       y1="3.45413"
+       x2="40.7812"
+       y2="59.4373"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#7CECFF"
+         id="stop51" />
+      <stop
+         offset="1"
+         stop-color="#50E6FF"
+         id="stop53" />
+    </linearGradient>
+    <linearGradient
+       id="paint3_linear"
+       x1="18.7794"
+       y1="-1.56776"
+       x2="49.7584"
+       y2="59.2312"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#A7F2FF"
+         id="stop56" />
+      <stop
+         offset="1"
+         stop-color="#7CECFF"
+         id="stop58" />
+    </linearGradient>
+    <clipPath
+       id="clip0">
+      <rect
+         width="96"
+         height="96"
+         fill="white"
+         id="rect61" />
+    </clipPath>
+    <clipPath
+       id="clip1">
+      <rect
+         width="96"
+         height="96"
+         fill="white"
+         id="rect64" />
+    </clipPath>
+  </defs>
+</svg>
